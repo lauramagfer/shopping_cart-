@@ -5,5 +5,6 @@ Um sistema cujo os objetivos são:
 - Calcular o total da compra;
 - Mostrar o item de maior valor.
 
-<img width="479" height="631" alt="image" src="https://github.com/user-attachments/assets/978f8471-c630-44bc-b170-b3910d48c154" />
+<img width="453" height="624" alt="image" src="https://github.com/user-attachments/assets/bab9d927-47ed-423f-a267-9a989f7a8ec8" />
+
 
