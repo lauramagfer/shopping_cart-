@@ -10,5 +10,7 @@ Um sistema cujo os objetivos são:
 Supondo que o usuário digite sem querer um valor negativo, o programa avisa e solicita que seja digitado um valor válido: 
 <br><br>
 <img width="453" height="554" alt="image" src="https://github.com/user-attachments/assets/e5286a9f-b749-468f-87df-346f414a6040" />
-
-
+<br><br>
+E caso o usuário faça uma compra acima de R$ 100.00, um desconto de 10% é aplicado automaticamente: 
+<br><br>
+<img width="406" height="391" alt="image" src="https://github.com/user-attachments/assets/a5041702-c091-40dd-a521-35969d88abab" />
