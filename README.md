@@ -13,4 +13,4 @@ Supondo que o usuário digite sem querer um valor negativo, o programa avisa e s
 <br><br>
 E caso o usuário faça uma compra acima de R$ 100.00, um desconto de 10% é aplicado automaticamente: 
 <br><br>
-<img width="406" height="391" alt="image" src="https://github.com/user-attachments/assets/a5041702-c091-40dd-a521-35969d88abab" />
+<img width="453" height="391" alt="image" src="https://github.com/user-attachments/assets/a5041702-c091-40dd-a521-35969d88abab" />
